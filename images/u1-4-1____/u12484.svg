@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="135px" height="28px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="773.575076223758" y1="1090.3169589996" x2="785.424923776242" y2="1131.6830410004" id="LinearGradient512">
+      <stop id="Stop513" stop-color="#409eff" offset="0" />
+      <stop id="Stop514" stop-color="#409eff" offset="0.5" />
+      <stop id="Stop515" stop-color="#0066ff" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -712 -1097 )">
+    <path d="M 712.5 1100  A 2.5 2.5 0 0 1 715 1097.5 L 844 1097.5  A 2.5 2.5 0 0 1 846.5 1100 L 846.5 1122  A 2.5 2.5 0 0 1 844 1124.5 L 715 1124.5  A 2.5 2.5 0 0 1 712.5 1122 L 712.5 1100  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 712.5 1100  A 2.5 2.5 0 0 1 715 1097.5 L 844 1097.5  A 2.5 2.5 0 0 1 846.5 1100 L 846.5 1122  A 2.5 2.5 0 0 1 844 1124.5 L 715 1124.5  A 2.5 2.5 0 0 1 712.5 1122 L 712.5 1100  Z " stroke-width="1" stroke="url(#LinearGradient512)" fill="none" />
+  </g>
+</svg>
